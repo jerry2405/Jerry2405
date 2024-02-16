@@ -1,0 +1,20 @@
+Solo Project -User Story Creation 
+
+Structure Section
+1. As a user accessing the web browser i would like to see the item header that has the name of the app . I would like to see the tab name if its being used . So i know in which section i m being tested.
+Eg: The page should should display Chingu Trivia
+2.As a user i like to see one trivia question and four  multiple choice answers ,so that i can select one answer from the multiple choice. 
+3. As a user i should be able to see which question i am currently working on and also total number of questions ,so that i will be able to keep track on number of questions.
+Note: Sample example format can be "Question 3/10 "
+4.As a user i should be able to navigate to next question only after selecting the answer for the current question,so that i dont skip answering any questions.
+5.As a user i should be able to see a message that shows my selected answer is "Right" or Wrong" as soon as i select the answer,so that i get to know the answer immediately instead of waiting till the end. 
+6.As a user i should be able to see a message if the trivia questions get completed,so that i know the trivia is done.
+7. As a user i should be able to see my overall score when trivia session gets completed ,so that i know my final score
+
+Functionality : 
+1. As a examiner i would like to post minimmum 10 questions for each session,so that user understanding can be tested in broadway.
+2.As a user i shouldnt be seeing the refresh page button,
+Note: Make sure Hardcode all of your questions/choices in your JS file and use DOM manipulation to insert text as you go
+
+ 
+
