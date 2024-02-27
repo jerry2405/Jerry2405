@@ -1,4 +1,5 @@
-git commit -m "SPD-10 <message>" 👋
+git commit -m "SPD-10 <message>"
+git commit -m "SPD-8 <message>"👋
 
 <!--
 **jerry2405/Jerry2405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
